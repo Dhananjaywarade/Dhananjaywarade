@@ -1,19 +1,17 @@
-### Hi there 👋
-I'm Dhananjay from India,and I am web developer.
-I lovee open-source! On my GitHub, You will find HTML and CSS based projects. I am currently working on creating an e-commerce website.I really enjoy learning language and frameworks.
-[![Dhananjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhananjaywarade)](https://github.com/Dhananjaywarade/github-readme-stats)
+### Hi there 👋, Dhananjay Warade
+#### Design and Development
+![Design and Development](https://pbs.twimg.com/profile_banners/1211548950353678336/1645010191/600x200)
 
-<!--
-**Dhananjaywarade/Dhananjaywarade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love open-source! On my GitHub, You will find HTML and CSS-based projects.  I really enjoy learning languages and frameworks.
 
-Here are some ideas to get you started:
+When I'm not coding, I love reading books.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills: JS / HTML / CSS
+
+- 🔭 I’m currently working on creating an e-commerce website. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dhananjaywarade)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/dhananjaywarade)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dhananjay-warade/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DhanajayWarade)  
+
+
