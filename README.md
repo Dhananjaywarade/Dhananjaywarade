@@ -1,6 +1,6 @@
 ### Hi there 👋, Dhananjay Warade
 #### Design and Development
-![Design and Development](https://pbs.twimg.com/profile_banners/1211548950353678336/1645010191/600x200)
+![Design and Development](https://github.com/Dhananjaywarade/Dhananjaywarade/blob/main/githubprofile.png)
 
 I love open-source! On my GitHub, You will find HTML and CSS-based projects.  I really enjoy learning languages and frameworks.
 
