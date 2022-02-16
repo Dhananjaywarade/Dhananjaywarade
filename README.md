@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Dhananjay from India,and I am web developer.
+I lovee open-source! On my GitHub, You will find HTML and CSS based projects. I am currently working on creating an e-commerce website.I really enjoy learning language and frameworks.
+[![Dhananjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhananjaywarade)](https://github.com/Dhananjaywarade/github-readme-stats)
 
 <!--
 **Dhananjaywarade/Dhananjaywarade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
