@@ -1,10 +1,23 @@
+
 ![Design and Development](https://github.com/Dhananjaywarade/Dhananjaywarade/blob/main/githubprofile.png)
-##
-# Dhananjay Warade
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'></p>
+<div size='20px'> Hi! My name is Dhananjay. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+<h2> About Me </h2>
 
-I love open-source! On my GitHub, You will find HTML and CSS-based projects.  I really enjoy learning languages and frameworks. I have gained a wealth of experience designing and developing web applications. I’m currently working on creating an e-commerce website. 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-When I'm not coding, I love reading books.
+
+- 🔭 I’m currently working on creating an e-commerce website.
+
+- 🌱 I’m currently learning Node.Js 
+
+- 👯 I’m looking to collaborate on Projects,Tech Articles 
+
+- 💬 Talk to me about HTML,CSS,JavaScript, Open Source
+
+
 
 
 
