@@ -28,7 +28,12 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjaywarade)](https://github.com/anuraghazra/github-readme-stats)
 
-  
+  <h3>Blog Posts:</h3>
+
+- [Important CSS Properties You Must Know](https://dev.to/dhananjaywarade/important-css-properties-you-must-know-5adp)
+- [9 HTML Useful Input Types](https://dev.to/dhananjaywarade/9-html-useful-input-types-frontend-everything-3fa6)
+- [Important HTML Properties You Must Know](https://dev.to/dhananjaywarade/html-cheatsheet-for-beginners-3k45)
+
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
