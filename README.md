@@ -30,6 +30,7 @@
 
   <h3>Blog Posts:</h3>
   
+- [10 Amazing Website Every Developer Should Know](https://dev.to/dhananjaywarade/10-amazing-website-every-developer-should-know-5923)
 - [Want to Host Your Website for free?](https://dev.to/dhananjaywarade/want-to-host-your-website-for-free-4e0)
 - [Important CSS Properties You Must Know](https://dev.to/dhananjaywarade/important-css-properties-you-must-know-5adp)
 - [9 HTML Useful Input Types](https://dev.to/dhananjaywarade/9-html-useful-input-types-frontend-everything-3fa6)
