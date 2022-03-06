@@ -30,6 +30,7 @@
 
   <h3>Blog Posts:</h3>
   
+- [How to design a logo with these awesome hovering effects?](https://dev.to/dhananjaywarade/how-to-design-a-logo-with-these-awesome-hovering-effects-43cn)  
 - [TOP 7 FREE SHOPIFY THEMES FOR E-COMMERCE SITES](https://dev.to/dhananjaywarade/top-7-free-shopify-themes-for-e-commerce-sites-27jc) 
 - [10 Amazing Website Every Developer Should Know](https://dev.to/dhananjaywarade/10-amazing-website-every-developer-should-know-5923)
 - [Want to Host Your Website for free?](https://dev.to/dhananjaywarade/want-to-host-your-website-for-free-4e0)
