@@ -28,8 +28,13 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjaywarade)](https://github.com/anuraghazra/github-readme-stats)
 
-  <h3>Blog Posts:</h3>
+  ## &#x270d; Blog & Writing
+  Apart from coding, I also maintain a blog - you can find my articles on [DEV.to](https://dev.to/dhananjaywarade).
   
+  
+  A sample of my recent articles:
+  <!-- BLOG-POST-LIST:START -->
+
 - [How to design a logo with these awesome hovering effects?](https://dev.to/dhananjaywarade/how-to-design-a-logo-with-these-awesome-hovering-effects-43cn)  
 - [TOP 7 FREE SHOPIFY THEMES FOR E-COMMERCE SITES](https://dev.to/dhananjaywarade/top-7-free-shopify-themes-for-e-commerce-sites-27jc) 
 - [10 Amazing Website Every Developer Should Know](https://dev.to/dhananjaywarade/10-amazing-website-every-developer-should-know-5923)
@@ -39,7 +44,7 @@
 - [Important HTML Properties You Must Know](https://dev.to/dhananjaywarade/html-cheatsheet-for-beginners-3k45)
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+##  Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <p align="left">
 <a href="https://dev.to/dhananjaywarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dhananjaywarade" height="30" width="40" /></a>
 <a href="https://twitter.com/dhanajaywarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhanajaywarade" height="30" width="40" /></a>
