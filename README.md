@@ -26,7 +26,7 @@
 
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjaywarade)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjaywarade)](https://github.com/Dhananjaywarade/github-readme-stats)
 
   ## &#x270d; Blog & Writing
   Apart from coding, I also maintain a blog - you can find my articles on [DEV.to](https://dev.to/dhananjaywarade).
@@ -45,10 +45,15 @@
 
 
 ##  Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+
+  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+ 
 <p align="left">
 <a href="https://dev.to/dhananjaywarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dhananjaywarade" height="30" width="40" /></a>
 <a href="https://twitter.com/dhanajaywarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhanajaywarade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhananjay-warade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjay-warade" height="30" width="40" /></a>
 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  
+
