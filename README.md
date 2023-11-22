@@ -2,7 +2,7 @@
 ![Design and Development](https://github.com/Dhananjaywarade/Dhananjaywarade/blob/main/githubprofile.png)
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'></p>
-<div size='20px'> Hi! My name is Dhananjay. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Dhananjay. Thank You for taking the time to view my GitHub Profile .Please visit my portfolio Website ([Portfolio](https://dhananjaywarade.netlify.app/)) :smile: 
 </div>
 <h2> About Me </h2>
 
@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on creating an e-commerce website.
 
-- 🌱 I’m currently learning Node.Js 
+- 🌱 I’m currently learning Spring,spring Boot
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
-- 💬 Talk to me about HTML,CSS,JavaScript, Open Source
+- 💬 Talk to me about Front-End Development, Open Source
 
 
 
