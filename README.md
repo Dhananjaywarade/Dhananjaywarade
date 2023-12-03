@@ -52,7 +52,7 @@
 <p align="left">
 <a href="https://dev.to/dhananjaywarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dhananjaywarade" height="30" width="40" /></a>
 <a href="https://twitter.com/dhanajaywarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhanajaywarade" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhananjay-warade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjay-warade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhananjaywarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjay-warade" height="30" width="40" /></a>
 </p>
 
   
